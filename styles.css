@@ -1,0 +1,23 @@
+.navbar{
+    background-color: lightblue;
+    
+}
+.navbar ul{
+    display: flex;
+    height: 56px;
+    align-items: center;
+}
+.navbar ul li a{
+    color: lightcyan;
+    text-decoration: none;
+    padding: 10px;
+}
+.post{
+    margin-top: 10px;
+    border: 1px solid cadetblue;
+    padding: 10px;
+}
+.posts{
+    padding-right: 10px;
+    padding-left: 10px;
+}
